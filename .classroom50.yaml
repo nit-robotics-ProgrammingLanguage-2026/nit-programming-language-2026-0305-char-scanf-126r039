@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "0305-char-scanf"
+secret: "nmm2dsr0"
+owner:
+  username: "126R039"
+  id: 341240422
+  accepted_at: "2026-10-16T03:26:54Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0305-scanf_char"
+  branch: "main"
